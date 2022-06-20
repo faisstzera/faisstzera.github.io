@@ -1,0 +1,214 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1247px; width: 1247px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1247px;
+	height: 1787px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1247px;
+	height: 1787px;
+	background:rgba(255,255,255,1);
+}
+
+
+#nome {
+	top: 86px;
+	left: 84px;
+	width: 1092px;
+	height: 97px;
+	overflow: hidden;
+	font-family: Consolas;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#descricao {
+	top: 155px;
+	left: 84px;
+	width: 1045px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Lucida Console;
+	font-size: 22px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#linkedin_1 {
+	top: 226px;
+	left: 84px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#curse_1 {
+	top: 284px;
+	left: 84px;
+	width: 523px;
+	height: 306px;
+}
+
+
+#curse {
+	top: 283px;
+	left: 644px;
+	width: 624.5px;
+	height: 109.5px;
+	overflow: hidden;
+	font-family: Consolas;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#memoria_1 {
+	top: 611px;
+	left: 84px;
+	width: 523px;
+	height: 307px;
+}
+
+
+#jogo_da_memoria {
+	top: 611px;
+	left: 644px;
+	width: 542.5px;
+	height: 128.5px;
+	overflow: hidden;
+	font-family: Consolas;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#projeto_smart_city {
+	top: 939px;
+	left: 644px;
+	width: 542.5px;
+	height: 128.5px;
+	overflow: hidden;
+	font-family: Consolas;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#smartcity_1 {
+	top: 939px;
+	left: 84px;
+	width: 523px;
+	height: 371px;
+}
+
+
+#spotify_final_1 {
+	top: 1331px;
+	left: 87px;
+	width: 520px;
+	height: 416px;
+}
+
+
+#player_de_musica {
+	top: 1331px;
+	left: 644px;
+	width: 610.5px;
+	height: 102.5px;
+	overflow: hidden;
+	font-family: Consolas;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#descricao_curse {
+	top: 346px;
+	left: 641px;
+	width: 531px;
+	height: 190px;
+	overflow: hidden;
+	font-family: Lucida Console;
+	font-size: 20px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#descricao_memoria {
+	top: 677px;
+	left: 641px;
+	width: 531px;
+	height: 190px;
+	overflow: hidden;
+	font-family: Lucida Console;
+	font-size: 20px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#descricao_player {
+	top: 1400px;
+	left: 641px;
+	width: 531px;
+	height: 190px;
+	overflow: hidden;
+	font-family: Lucida Console;
+	font-size: 20px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#descricao_smart {
+	top: 999px;
+	left: 641px;
+	width: 531px;
+	height: 190px;
+	overflow: hidden;
+	font-family: Lucida Console;
+	font-size: 20px;
+	text-align: justified;
+	color:#000000;
+}
+
+#github_1 {
+	top: 226px;
+	left: 124px;
+	width: 38.11px;
+	height: 38.11px;
+}
+
+#github_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 38.11px;
+	height: 38.11px;
+}
+
